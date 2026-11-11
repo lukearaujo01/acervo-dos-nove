@@ -1,0 +1,53 @@
+COLOQUE AS FOTOS NESTA PASTA
+
+Use exatamente estes nomes (minúsculas, sem acento, .jpg):
+
+classica-0-sid.jpg
+classica-1-joey.jpg
+classica-2-paul.jpg
+classica-3-chris.jpg
+classica-4-jim.jpg
+classica-5-craig.jpg
+classica-6-clown.jpg
+classica-7-mick.jpg
+classica-8-corey.jpg
+formacao-1.jpg
+formacao-2.jpg
+formacao-3.jpg
+formacao-4.jpg
+atual-corey.jpg
+atual-clown.jpg
+atual-mick.jpg
+atual-jim.jpg
+atual-alessandro.jpg
+atual-michael.jpg
+atual-eloy.jpg
+atual-sampler.jpg
+eloy-principal.jpg
+eloy-1998.jpg
+eloy-2004.jpg
+eloy-2005.jpg
+eloy-2008-12.jpg
+eloy-2011.jpg
+eloy-2024.jpg
+eloy-out-2024.jpg
+eloy-2026.jpg
+album-01-slipknot.jpg
+album-02-iowa.jpg
+album-03-vol3.jpg
+album-04-ahig.jpg
+album-05-gray.jpg
+album-06-wanyk.jpg
+album-07-tesf.jpg
+brasil-2005.jpg
+brasil-2011.jpg
+brasil-2013.jpg
+brasil-2015.jpg
+brasil-2022.jpg
+brasil-2024.jpg
+brasil-2027.jpg
+memoria-paul.jpg
+memoria-joey.jpg
+
+Dicas: até 1600 px de largura e menos de 500 KB por foto.
+Os créditos são escritos dentro do index.html, na lista FOTOS.
